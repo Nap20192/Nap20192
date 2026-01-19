@@ -11,35 +11,26 @@ Backend Developer • Go • Distributed Systems
 
 ### 🚀 About Me
 - Backend developer focused on **Go**
-- Interested in **distributed systems** and **real-time services**
-- I like clean architecture, concurrency, and systems that scale
+- Building scalable, real-time, and distributed systems
+- Passionate about clean architecture, concurrency, and system design
 
 ---
 
-### 🧠 Currently Working With
+### 🧠 Current Focus
 - **Go** (goroutines, channels, context)
 - REST APIs & WebSockets
-- PostgreSQL, Redis
+- PostgreSQL & Redis
 - Event-driven systems (RabbitMQ)
 - Docker & Linux
 
 ---
 
-### 📌 Featured Work
-Check my **pinned repositories** below — production-style backend services,
-real-time systems, and algorithmic projects.
+### 📌 Featured Projects
+Check my pinned repositories — production-ready backend services, real-time apps, and algorithmic projects.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikogay&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikogay&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
+### 🐍 GitHub Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/nikogay/nikogay/output/github-contribution-grid-snake.svg" />
 </p>
@@ -47,7 +38,7 @@ real-time systems, and algorithmic projects.
 ---
 
 ### 📫 Contact
-- Email: your.email@gmail.com
+- Email: your.email@gmail.com  
 - LinkedIn: https://linkedin.com/in/yourprofile
 
 ---
