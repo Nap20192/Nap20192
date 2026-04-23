@@ -1,24 +1,22 @@
-<h1 align="center">Hi, I'm Nikolay 👋</h1>
-<p align="center">
-Backend Developer • Go • Distributed Systems
-</p>
+## Hi, there. My name is Nikolay Kogay
+### I'm software developer
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,postgres,redis,docker,linux,git,python" />
-</p>
+## Projects
 
----
+🐹 Go
+- **[shipment](https://github.com/Nap20192/shipment)** — Go service for shipment/order workflows (Docker-ready).
+- **[leetfetch](https://github.com/Nap20192/leetfetch)** — Go utils for fetching golang tasks.
+- **[hacknu](https://github.com/Nap20192/hacknu)** — locomotive telemetry analyzis.
+- **[marketflow](https://github.com/Nap20192/marketflow)** — service for collecting, aggregating market data. .
+- **[ride-hail](https://github.com/Nap20192/ride-hail)** — Go + PostgreSQL (PL/pgSQL) project.
 
-### 🚀 About Me
-- Backend developer focused on **Go**
-- Building scalable, real-time, and distributed systems
-- Passionate about clean architecture, concurrency, and system design
+🏪 apps
+- **[bakery](https://github.com/Nap20192/bakery)** — Telegram Bot for calculating orders.
+- **[wholesale-company-app](https://github.com/chaos-painter/wholesale-company-app)** — An app for a wholesale company (TypeScript + Rust + PLpgSQL).
 
----
+🖥️ Dotfiles & Config
+- **[dotfiles](https://github.com/Nap20192/dotfiles)** — Personal dotfiles / configs (Lua, Shell, Neovim).
 
-### 🧠 Current Focus
-- **Go** (goroutines, channels, context)
-- REST APIs & WebSockets
-- PostgreSQL & Redis
-- Event-driven systems (RabbitMQ)
-- Docker & Linux
+## Tech stack
+- **Backend:** Go
+- **Frontend:** TypeScript, JavaScript
