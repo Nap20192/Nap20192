@@ -1,7 +1,6 @@
 ## Hi, there. My name is Nikolay Kogay
-### I'm software developer
 
-## Projects
+### Projects
 
 🐹 Go
 - **[shipment](https://github.com/Nap20192/shipment)** — Go service for shipment/order workflows (Docker-ready).
