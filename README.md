@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=exekerey&color=green&abbreviated=true&base=100)
 ## Hi, there. My name is Nikolay Kogay
 
 ### Projects
